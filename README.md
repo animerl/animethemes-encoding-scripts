@@ -19,6 +19,8 @@ For producing builds, [**animethemes-batch-encoder**](https://pypi.org/project/a
 
 Please review the [**Contributing Guide**](https://github.com/AnimeThemes/animethemes-encoding-scripts/blob/main/.github/CONTRIBUTING.md) for detailed instructions.
 
+Pull Requests will be accepted once the source file has been obtained by or provided to the moderation team.
+
 ## Expectations
 
 Scripts will be executed in an environment with `/animethemes-encoding-scripts/`, `/animethemes-sources/` & `/animethemes-target/` directories.
