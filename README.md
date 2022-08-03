@@ -29,15 +29,15 @@ Scripts, sources & the target build shall be organized by year and season.
 
 ## Example
 
-The Bakemonogatari source shall exist in the `/animethemes-sources/2009/Summer/` directory.
+The Bakemonogatari sources shall exist in the `/animethemes-sources/2009/Summer/` directory.
 
-The Bakemonogatari script shall exist in the `/animethemes-encoding-scripts/2009/Summer/` directory.
+The Bakemonogatari scripts shall exist in the `/animethemes-encoding-scripts/2009/Summer/` directory.
 
 The Bakemonogatari build shall output to the `/animethemes-target/2009/Summer/` directory.
 
 An FFmpeg command for Bakemonogatari shall be of the format:
 
-`ffmpeg -i /animethemes-sources/2009/Summer/release-path/source-file {encoding settings} /animethemes-target/2009/Summer/output-file.webm`
+`ffmpeg -i "/animethemes-sources/2009/Summer/release-path/source-file" {encoding settings} "/animethemes-target/2009/Summer/output-file.webm"`
 
 ## Resources
 
